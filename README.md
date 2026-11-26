@@ -50,11 +50,13 @@
 
 <table>
   <tr>
+    <td><code>05</code></td>
     <td><a href="https://github.com/fleames/mailhub"><b>mailhub</b></a></td>
     <td>Self-hosted, single-user email client that unifies every mailbox you own into one inbox.</td>
     <td><code>OSS</code></td>
   </tr>
   <tr>
+    <td><code>06</code></td>
     <td><a href="https://github.com/fleames/voidpaste-cli"><b>voidpaste-cli</b></a></td>
     <td>Official VoidPaste CLI — create, fetch, list and delete pastes from the terminal.</td>
     <td><code>OSS</code></td>
