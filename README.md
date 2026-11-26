@@ -1,16 +1,12 @@
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v1.svg">
-    <img src="./assets/hero-light-v1.svg" alt="Vanoy — full-stack developer. From the sea to the terminal. Built solo. Still shipping." width="880">
-  </picture>
+  <img src="./assets/hero-light-v1.svg#gh-light-mode-only" alt="Vanoy — full-stack developer. From the sea to the terminal. Built solo. Still shipping." width="880">
+  <img src="./assets/hero-dark-v1.svg#gh-dark-mode-only" alt="Vanoy — full-stack developer. From the sea to the terminal. Built solo. Still shipping." width="880">
 </p>
 
 <!-- 01 / The catch -->
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-catch-dark-v1.svg">
-    <img src="./assets/sec-catch-light-v1.svg" alt="01 / The catch — selected work" width="880">
-  </picture>
+  <img src="./assets/sec-catch-light-v1.svg#gh-light-mode-only" alt="01 / The catch — selected work" width="880">
+  <img src="./assets/sec-catch-dark-v1.svg#gh-dark-mode-only" alt="01 / The catch — selected work" width="880">
 </p>
 
 <table>
@@ -42,10 +38,8 @@
 
 <!-- 02 / Open water -->
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-water-dark-v1.svg">
-    <img src="./assets/sec-water-light-v1.svg" alt="02 / Open water — more open source" width="880">
-  </picture>
+  <img src="./assets/sec-water-light-v1.svg#gh-light-mode-only" alt="02 / Open water — more open source" width="880">
+  <img src="./assets/sec-water-dark-v1.svg#gh-dark-mode-only" alt="02 / Open water — more open source" width="880">
 </p>
 
 <table>
@@ -65,10 +59,8 @@
 
 <!-- 03 / Instruments -->
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-instruments-dark-v1.svg">
-    <img src="./assets/sec-instruments-light-v1.svg" alt="03 / Instruments — daily kit" width="880">
-  </picture>
+  <img src="./assets/sec-instruments-light-v1.svg#gh-light-mode-only" alt="03 / Instruments — daily kit" width="880">
+  <img src="./assets/sec-instruments-dark-v1.svg#gh-dark-mode-only" alt="03 / Instruments — daily kit" width="880">
 </p>
 
 <p>
@@ -77,10 +69,8 @@
 
 <!-- Footer -->
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark-v1.svg">
-    <img src="./assets/footer-light-v1.svg" alt="Have something that needs shipping?" width="880">
-  </picture>
+  <img src="./assets/footer-light-v1.svg#gh-light-mode-only" alt="Have something that needs shipping?" width="880">
+  <img src="./assets/footer-dark-v1.svg#gh-dark-mode-only" alt="Have something that needs shipping?" width="880">
 </p>
 
 <p align="center">
