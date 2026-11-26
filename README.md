@@ -11,28 +11,28 @@
 
 <table>
   <tr>
-    <td><code>01</code></td>
-    <td><a href="https://nullpaste.org"><b>NullPaste</b></a></td>
+    <td nowrap><code>01</code></td>
+    <td nowrap><a href="https://nullpaste.org"><b>NullPaste</b></a></td>
     <td>End-to-end encrypted pastebin. Burn after read, no account, no analytics.</td>
-    <td><code>LIVE</code></td>
+    <td nowrap><code>LIVE</code></td>
   </tr>
   <tr>
-    <td><code>02</code></td>
-    <td><a href="https://github.com/fleames/fleetdeck"><b>fleetdeck</b></a></td>
+    <td nowrap><code>02</code></td>
+    <td nowrap><a href="https://github.com/fleames/fleetdeck"><b>fleetdeck</b></a></td>
     <td>Self-hosted fleet monitoring and Docker command center.</td>
-    <td><code>OSS ★1</code></td>
+    <td nowrap><code>OSS ★1</code></td>
   </tr>
   <tr>
-    <td><code>03</code></td>
-    <td><a href="https://nullclipper.org"><b>NullClipper</b></a></td>
+    <td nowrap><code>03</code></td>
+    <td nowrap><a href="https://nullclipper.org"><b>NullClipper</b></a></td>
     <td>Windows tray snipping tool with optional encrypted share links.</td>
-    <td><code>OSS</code></td>
+    <td nowrap><code>OSS</code></td>
   </tr>
   <tr>
-    <td><code>04</code></td>
-    <td><a href="https://github.com/fleames/soloenv-cli"><b>soloenv-cli</b></a></td>
+    <td nowrap><code>04</code></td>
+    <td nowrap><a href="https://github.com/fleames/soloenv-cli"><b>soloenv-cli</b></a></td>
     <td>One-command ephemeral staging: run it, get a public URL, tear it down.</td>
-    <td><code>OSS ★2</code></td>
+    <td nowrap><code>OSS ★2</code></td>
   </tr>
 </table>
 
@@ -44,16 +44,16 @@
 
 <table>
   <tr>
-    <td><code>05</code></td>
-    <td><a href="https://github.com/fleames/mailhub"><b>mailhub</b></a></td>
+    <td nowrap><code>05</code></td>
+    <td nowrap><a href="https://github.com/fleames/mailhub"><b>mailhub</b></a></td>
     <td>Self-hosted, single-user email client that unifies every mailbox you own into one inbox.</td>
-    <td><code>OSS</code></td>
+    <td nowrap><code>OSS</code></td>
   </tr>
   <tr>
-    <td><code>06</code></td>
-    <td><a href="https://github.com/fleames/voidpaste-cli"><b>voidpaste-cli</b></a></td>
+    <td nowrap><code>06</code></td>
+    <td nowrap><a href="https://github.com/fleames/voidpaste-cli"><b>voidpaste-cli</b></a></td>
     <td>Official VoidPaste CLI — create, fetch, list and delete pastes from the terminal.</td>
-    <td><code>OSS</code></td>
+    <td nowrap><code>OSS</code></td>
   </tr>
 </table>
 
