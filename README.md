@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td nowrap><code>05</code></td>
-    <td nowrap><a href="https://github.com/fleames/mailhub"><b>mailhub</b></a></td>
+    <td nowrap><a href="https://github.com/fleames/mailhub-desktop"><b>mailhub</b></a></td>
     <td>Self-hosted, single-user email client that unifies every mailbox you own into one inbox.</td>
     <td nowrap><code>OSS</code></td>
   </tr>
